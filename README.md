@@ -1,2 +1,2 @@
 # Frontend_React
-Repositório destinado as aplicações em React  https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB
+Repositório destinado as aplicações em React  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
