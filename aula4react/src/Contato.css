@@ -1,0 +1,28 @@
+html{
+    background-color:rgba(52, 48, 48, 0.429);
+}
+
+.App{
+    text-align: center;
+    color: rgb(43, 50, 248);
+}
+
+.foto {
+    margin-top: 30px;
+    height: 30%;
+    width: 20%;
+    border: 2px solid rgb(27, 20, 228);
+
+}
+
+a {
+    text-decoration: none;
+    color: rgb(20, 39, 246);
+}
+
+a:link{ color: white}
+
+a:visited{ color:rgb(20, 39, 246)}
+
+a:hover{ color:blueviolet}
+
